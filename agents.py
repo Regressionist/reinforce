@@ -127,7 +127,7 @@ class DavidAgent():
         training_returns = []
         running_reward = 0
         eps = 1e-05
-        best_return = -12
+        best_return = -10.5
         batch_size = 10
         for ep_idx in range(max_episodes):
             policy_loss = []
