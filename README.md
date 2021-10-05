@@ -1,8 +1,6 @@
-1. python -m venv venv
-2. source venv/bin/activate
-3. pip install -r requirements.txt
+Create a conda environment using `conda env create -f environment.yml`
 
-Now, you can train the agents using the reinforce_experiments.ipynb notebook
+Now, you can train the agents using the ipython notebooks
 
 To visulize hpw your models perform,
 ```
